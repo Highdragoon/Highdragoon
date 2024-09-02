@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Highdragoon
-- 👀 I’m interested in game developpment and programmation as a science
+- 👀 I’m interested in game developpment and programming as a science
 - 🌱 I’m currently learning C# and Java in order to become a software developper
 - 💞️ I’m looking to collaborate on small projects to study by practising
 - 😄 Pronouns: He/Him
